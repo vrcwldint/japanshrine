@@ -1,5 +1,6 @@
 assets/videos/*.mp4 filter=lfs diff=lfs merge=lfs -text
 assets/videos/*.webm filter=lfs diff=lfs merge=lfs -text
+assets/videos/background.mp4 filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.html filter=lfs diff=lfs merge=lfs -text
 /assets/fonts/NotoSansJP-VariableFont_wght filter=lfs diff=lfs merge=lfs -text
